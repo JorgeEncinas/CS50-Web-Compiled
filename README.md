@@ -1,13 +1,13 @@
 # CS50's Web Programming with Python and JavaScript
 
-<p align="justify">The course assigns several projects to work on and build your knowledge on Web Programming. This is my work. <br>
-I must warn you, I did not focus on the styling of the websites, which I realize is a big part in making a good impression. I apologize. <br>
-Looking back on it, now that I've learned how Bootstrap works, it was not that difficult a task. I'll dedicate time in the near future to it. <br><br>
+<p align="justify">The course assigns several projects to work on and build your knowledge on Web Programming. This is my work.
+I must warn you, I did not focus on the styling of the websites, which I realize is a big part in making a good impression. I apologize.
+Looking back on it, now that I've learned how Bootstrap works, it was not that difficult a task. I'll dedicate time in the near future to it.
 
 Another thing is that I should adapt later projects to use React on the front-end side. Either way, doing these projects was quite a journey for me.
-I'm happy I persevered through it. <br>
+I'm happy I persevered through it.
 
-I'm still missing one more project: a free-form web system that is sufficiently distinct from the other assignments. On to the explanation of each: <br> </p>
+I'm still missing one more project: a free-form web system that is sufficiently distinct from the other assignments. On to the explanation of each: </p>
 
 ## Search
 
