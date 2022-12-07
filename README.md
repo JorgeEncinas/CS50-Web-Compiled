@@ -55,4 +55,4 @@ I just had to create the requested functions in the Backend. </p>
 <p align="justify">This is a Social Media website, very much like Twitter. I had to work on both Backend and Frontend on this one. 
 This is the one that required the most work for sure. You can post, lik/unlike posts, follow people, edit posts.</p>
 
-[Project Requirements specified here]https://cs50.harvard.edu/web/2020/projects/4/network/)
+[Project Requirements specified here](https://cs50.harvard.edu/web/2020/projects/4/network/)
