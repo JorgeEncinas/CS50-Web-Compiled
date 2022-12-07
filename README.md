@@ -11,6 +11,8 @@ I'm still missing one more project: a free-form web system that is sufficiently 
 
 ## Search
 
+[Check it out](https://github.com/JorgeEncinas/cs50web-search)
+
 <p align="justify">This first project is a recreation of Google's CSS design, and also querying their search tool, so that my website behaves
 exactly as Google's does.
 It has one slight quirk that I never ironed out completely: When you hover above the search bar, the borders on it disappear, being replaced by a slight shadow below
@@ -23,12 +25,16 @@ As the size of it changes slightly without the borders, it moves a bit. I have t
 
 ## Wiki
 
+[Check it out](https://github.com/JorgeEncinas/cs50web-wiki)
+
 <p align="justify">This is a wiki-like site, where you save entries to markdown files (.md extension). CS50 already provides ways to save and retrieve the entries,
 I just had to create the requested functions in the Backend. </p>
 
 [Project Requirements are specified here](https://cs50.harvard.edu/web/2020/projects/1/wiki/)
 
 ## Commerce
+
+[Check it out](https://github.com/JorgeEncinas/cs50web-commerce)
 
 <p align="justify">An Auctions website, where users can create Auctions, and also Bid on them. This project starts you off on using Models.
  Said models can give you a pretty good idea on the functionality implemented:</p>
@@ -44,6 +50,8 @@ I just had to create the requested functions in the Backend. </p>
 
 ## Mail
 
+[Check it out](https://github.com/JorgeEncinas/cs50web-mail)
+
 <p align="justify">This project requires working only on the Frontend with pure JavaScript. It's, as the name suggests, a mail system.
  You can send, read, reply, and archive/unarchive mail, all without reloading the page, as it's all made using fetch calls.
   The Backend was already written; it was up to me to use it and display content accordingly.</p>
@@ -51,6 +59,8 @@ I just had to create the requested functions in the Backend. </p>
 [Project Requirements specified here](https://cs50.harvard.edu/web/2020/projects/3/mail/)
 
 ## Network
+
+[Check it out](https://github.com/JorgeEncinas/cs50web-network)
 
 <p align="justify">This is a Social Media website, very much like Twitter. I had to work on both Backend and Frontend on this one. 
 This is the one that required the most work for sure. You can post, like/unlike posts, follow people, edit posts.</p>
